@@ -1,0 +1,8 @@
+jcache-demo
+===========
+
+A compilation of small code examples to get you started with the +javax.cache+ API, using Ehcache as the implementer. 
+
+= Getting started
+
+Simply clone the repository and see the https://github.com/alexsnaps/jcache-demo/wiki[wiki] for more information!
